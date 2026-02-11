@@ -45,7 +45,3 @@ The application supports:
 
 ### Edit MP3 Tags
 ![Edit MP3 Tags](images/edit.png)
-
-
-## 📂 Project Structure
-
